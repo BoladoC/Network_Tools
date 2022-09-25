@@ -13,4 +13,5 @@ Modo de ejecución:
     >> CTRL-D
     >> (Nos dará el mensaje de bienvenida que haya programado y estamos dentro, momento del ataque)
   
-![imagen](https://user-images.githubusercontent.com/96150730/192136616-251edabd-2afb-4d57-a691-09e03d7359e7.png)
+![imagen](https://user-images.githubusercontent.com/96150730/192136680-d46a9789-90aa-44e8-96dc-dbdec424f30a.png)
+ En la imagen se muetra como me conecto desde Netcat (el original) para que se vea que da igual la manera de conectarse.
