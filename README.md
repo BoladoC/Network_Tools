@@ -13,3 +13,4 @@ Modo de ejecución:
     >> CTRL-D
     >> (Nos dará el mensaje de bienvenida que haya programado y estamos dentro, momento del ataque)
   
+![imagen](https://user-images.githubusercontent.com/96150730/192136616-251edabd-2afb-4d57-a691-09e03d7359e7.png)
